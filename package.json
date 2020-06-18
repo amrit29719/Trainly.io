@@ -9,7 +9,7 @@
   "author": "Amrit Bhatia, Zhe Chen, Janhavi Suresh Mahajan, Bowen Zhang",
   "license": "ISC",
   "dependencies": {
-    "angular": "^1.6.6",
+    "angular": "^1.8.0",
     "angular-rateit": "^4.0.1",
     "angular-route": "^1.6.6",
     "bcrypt": "^1.0.3",
